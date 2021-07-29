@@ -2,13 +2,13 @@ import * as firebase from 'firebase';
 // import firestore from 'firebase/firestore'
 
 const config = {
-    apiKey: "AIzaSyAAapWo7IjsM51kmCCQ-3MAlY3Fx-hi-pI",
-    authDomain: "cycleway-damage.firebaseapp.com",
-    databaseURL: "https://cycleway-damage.firebaseio.com",
-    projectId: "cycleway-damage",
-    storageBucket: "cycleway-damage.appspot.com",
-    messagingSenderId: "722433868825",
-    appId: "1:722433868825:web:5938dca2428109ad7a1688"
+    apiKey: "",
+    authDomain: "",
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: ""
   };
 
   firebase.initializeApp(config);
